@@ -1,0 +1,10 @@
+com\tienda\service\ProductServiceTest$ReadTests.class
+com\tienda\service\ProductServiceTest$DeleteTests.class
+com\tienda\service\OrderServiceTest$CreateOrderTests.class
+com\tienda\service\OrderServiceTest$ReadOrderTests.class
+com\tienda\service\OrderServiceTest.class
+com\tienda\service\ProductServiceTest$CreateTests.class
+com\tienda\service\ProductServiceTest$UpdateTests.class
+com\tienda\controller\ProductControllerTest.class
+com\tienda\service\ProductServiceTest.class
+com\tienda\TiendaApplicationTests.class
